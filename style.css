@@ -1,0 +1,82 @@
+/****************
+
+* Date: 27/03.2020
+*
+*****************/
+
+
+
+
+* {
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, "segoe ui", roboto, oxygen, ubuntu, cantarell, "fira sans", "droid sans", "helvetica neue", Arial, sans-serif;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+body {
+    background-color: lemonchiffon;
+    margin: 0;
+}
+
+.nav {
+    color: rgb(49, 49, 42);
+    text-decoration: none;
+
+}
+
+.nav-header-main {
+    color:grey;
+    font-family: cursive;
+    width: 100%;
+    height: 100px;
+    background-color: #fff;
+  
+
+}
+
+
+
+ul li {
+    list-style: none;
+    display: inline-block;
+    float: left;
+    padding: 0 20px;
+    line-height: 100px;
+ }
+ 
+ ul li a{
+    display: block;
+    text-decoration: none;
+    padding: 0 20px;
+ }
+ 
+ ul li a: :hover{
+     color: red;
+  }
+
+ 
+.form-reg {
+    
+        color: rgb(49, 49, 42);
+        font-family: cursive;
+        text-align: center;
+}
+
+ .login {
+
+    color: rgb(49, 49, 42);
+        font-family: cursive;
+        text-align: center;
+}
+
+.wrapper-main  {
+ 
+    color: rgb(49, 49, 42);
+        font-family: cursive;
+        text-align: center;
+
+}
+

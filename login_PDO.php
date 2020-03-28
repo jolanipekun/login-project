@@ -60,7 +60,7 @@
                   
                   // go to the next page; in this case readFromDB.php that displays a table
                                       print("read the DB");
-                  header("Location:readFromDB_PDO.php");
+                  header("Location:readPDO.php");
                   $found = true;
                   break;
               }
